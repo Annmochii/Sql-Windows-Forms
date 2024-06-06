@@ -1,0 +1,8 @@
+C:\Users\alunodev02\source\repos\Aula20240605\bin\Debug\Aula20240605.exe.config
+C:\Users\alunodev02\source\repos\Aula20240605\bin\Debug\Aula20240605.exe
+C:\Users\alunodev02\source\repos\Aula20240605\bin\Debug\Aula20240605.pdb
+C:\Users\alunodev02\source\repos\Aula20240605\obj\Debug\Aula20240605.csproj.AssemblyReference.cache
+C:\Users\alunodev02\source\repos\Aula20240605\obj\Debug\Aula20240605.csproj.SuggestedBindingRedirects.cache
+C:\Users\alunodev02\source\repos\Aula20240605\obj\Debug\Aula20240605.csproj.CoreCompileInputs.cache
+C:\Users\alunodev02\source\repos\Aula20240605\obj\Debug\Aula20240605.exe
+C:\Users\alunodev02\source\repos\Aula20240605\obj\Debug\Aula20240605.pdb
